@@ -1,0 +1,18 @@
+/* Global */
+@import "./global.css";
+
+/* SubHeader */
+@import "./subheader.css";
+
+/* Header */
+@import "./header.css";
+
+/* Main */
+@import "./sobre.css";
+@import "./preco.css";
+@import "./produtos.css";
+@import "./qualidade.css";
+@import "./news.css";
+
+/* Footer */
+@import "./footer.css";
